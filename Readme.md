@@ -16,7 +16,7 @@ I used my favorite and everyday language Python for this task. With its builtin 
 
 1. Step - clone the repo
 ```
-git clone github.com/cheetahbyte/bernerdev-codejam-1 codejam
+git clone https://github.com/cheetahbyte/bernerdev-codejam-1 codejam
 ```
 
 2. Step - cd inside the folder
