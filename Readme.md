@@ -16,12 +16,12 @@ I used my favorite and everyday language Python for this task. With its builtin 
 
 1. Step - clone the repo
 ```
-git clone github.com/cheetahbyte/codejam1
+git clone github.com/cheetahbyte/bernerdev-codejam-1 codejam
 ```
 
 2. Step - cd inside the folder
 ```
-cd codejam1
+cd codejam
 ```
 
 3. Step - run the server.py file
